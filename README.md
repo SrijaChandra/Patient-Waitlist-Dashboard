@@ -1,11 +1,5 @@
-# Patient-Waitlist-Dashboard
+# Patient-Waitlist-Dashboard (Power BI)
 Interactive Power BI dashboard analyzing patient waitlist trends, specialty breakdown, and case-type performance using dynamic measures and tooltip visualizations.
-
-Perfect 👌 here’s a **clean, professional, recruiter-ready README.md** you can directly paste into your GitHub repository.
-
----
-
-# 📊 Patient Waitlist Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview
 
@@ -21,7 +15,6 @@ The dashboard provides insights into:
 
 The objective of this project is to help stakeholders monitor patient backlog patterns and identify high-demand specialties using data-driven insights.
 
----
 
 ## 🎯 Key Features
 
@@ -57,7 +50,6 @@ The objective of this project is to help stakeholders monitor patient backlog pa
   * Age Profile
   * Time Bands
 
----
 
 ## 🛠 Tools & Technologies Used
 
@@ -71,7 +63,7 @@ The objective of this project is to help stakeholders monitor patient backlog pa
 * Interactive Slicers
 * GitHub (Version Control)
 
----
+
 
 ## 🧠 Data Analysis Approach
 
@@ -95,7 +87,7 @@ The objective of this project is to help stakeholders monitor patient backlog pa
   * Detailed analysis page
   * Drill-down interactions
 
----
+
 
 ## 📊 Dashboard Pages
 
@@ -108,11 +100,14 @@ Provides high-level KPIs and visual summaries including:
 * Age vs Time Band visualization
 * Monthly trend analysis
 
+<img width="1324" height="746" alt="Screenshot 2026-02-12 195909" src="https://github.com/user-attachments/assets/70ae3c2d-a359-47e9-89df-8287227ce6ef" />
 
 
 ### 2️⃣ Detailed View
 
 Provides granular specialty-level breakdown and hierarchical drill-down analysis.
+
+<img width="1325" height="740" alt="Screenshot 2026-02-12 195929" src="https://github.com/user-attachments/assets/cbe4a83e-6b1a-49ca-a4c7-abc2f11baf35" />
 
 ## 🚀 How to Use
 
@@ -120,6 +115,7 @@ Provides granular specialty-level breakdown and hierarchical drill-down analysis
 2. Open it using **Power BI Desktop**.
 3. Interact with slicers and visuals to explore dynamic insights.
 4. Hover over charts to view detailed tooltip analysis.
+
 
 
 ## 📈 Business Value
